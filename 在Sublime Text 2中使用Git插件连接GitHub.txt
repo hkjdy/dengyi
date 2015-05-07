@@ -1,0 +1,6 @@
+在Sublime Text 2中使用Git插件连接GitHub
+1.Git安装。
+2.Git配置，与GitHub连接
+git config --global user.name ""
+git config --global user.email ""
+git config --global push.default matching
